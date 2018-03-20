@@ -1,0 +1,9 @@
+build/
+dist/
+.egg
+.egg-info
+.gz
+.zip
+.pyc
+.pyo
+.bak
