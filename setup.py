@@ -687,7 +687,7 @@ setup(
     keywords=["SOAP", "web", "service", "client"],
     url=project_url,
     download_url=download_url,
-    packages=['suds'],
+    packages=recursive_package_list('suds'),
     author="Jeff Ortel",
     author_email="jortel@redhat.com",
     maintainer=maintainer,
