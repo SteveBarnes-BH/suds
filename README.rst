@@ -11,12 +11,12 @@ again.
 
 **Forked project information**
 
-* Project site - http://bitbucket.org/jurko/suds
+* Project site - https://github.com/Skylude/suds
 * Epydocs documentation - needs to be built from sources
 * Official releases can be downloaded from:
 
   * BitBucket - http://bitbucket.org/jurko/suds/downloads
-  * PyPI - http://pypi.python.org/pypi/suds-jurko
+  * PyPI - https://github.com/Skylude/suds
 
 **Original suds Python library development project information**
 
